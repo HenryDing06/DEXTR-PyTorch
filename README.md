@@ -15,6 +15,8 @@ This paper explores the use of extreme points in an object (left-most, right-mos
 [libstdc++.so.6](https://blog.csdn.net/u011961856/article/details/79644342)
 
 careful about "LD_LIBRARY_PATH" that conflict with anaconda, when meet bugs related with matploit (qt, pyqt, et)
+
+wget https://data.vision.ee.ethz.ch/csergi/share/DEXTR/MS_DeepLab_resnet_trained_VOC.pth for MS_DeepLab_resnet_trained_VOC.pth
 ### Installation
 The code was tested with [Miniconda](https://conda.io/miniconda.html) and Python 3.6. After installing the Miniconda environment:
 
